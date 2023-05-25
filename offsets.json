@@ -9,7 +9,7 @@
       "RootComponet":"0x190",
       "GameState":"0x158",
       "LastSubmitTime":"0x158",
-      "GameState":"LastSubmitTimeOnScreen",
+      "LastSubmitTimeOnScreen":"LastSubmitTimeOnScreen",
       "PersistentLevel":"0x30",
       "ActorCount":"0xA0",
       "Cameramanager":"0x340",
